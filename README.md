@@ -15,14 +15,14 @@ A comprehensive Progressive Web App (PWA) for EEG Technologists in the hospital 
 ---
 
 > ### About This Repository
-> This is the **full featured version** of Techflow, including the Task Management System. The production deployed version lives in a separate repository.
+> This is the **primary, full-featured version** of Techflow, showcasing the complete platform including the Task Management System.
 >
-> The Task Management System (EEG orders, patient room tracking, procedure checklists) is not included in the production version as a deliberate compliance decision. Tracking patient room assignments and procedure-level data requires a formal HIPAA compliance review before deployment in a clinical environment. This repository preserves the full feature set for portfolio and demonstration purposes.
+> This app was originally built for use in a hospital neurophysiology department. The Task Management System (EEG orders, patient room tracking, procedure checklists) was identified as not meeting HIPAA compliance requirements for clinical deployment, since tracking patient room assignments and procedure-level data requires a formal compliance review. I built a reduced, HIPAA-compliant version (see below) intended for department adoption. Ultimately, the department did not move forward with implementing either version. The project remained a highly educational experience, strengthening both my technical skills and my ability to build around real end-user needs. This full-featured repository remains the primary showcase of the project.
 >
-> ### Production-Ready Deployment
+> ### Department-Ready Version
 >[![Techflow](https://img.shields.io/badge/Techflow-Repo-30b5b2?style=for-the-badge&logo=github)](https://github.com/mariomujica99/techflow)  
-> **Want to explore the production-ready deployed version?**  
-> The same core platform with multi-department support. Built for potential department adoption, without the Task Management System.
+> **Want to explore the department-compliant version?**  
+> The same core platform with multi-department support. Built for potential department adoption, without the Task Management System. Ultimately not implemented.
 
 ---
 
